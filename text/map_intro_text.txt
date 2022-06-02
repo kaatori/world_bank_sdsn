@@ -1,0 +1,6 @@
+
+You may also zoom in by double-clicking in your chosen area of the map. The gradient indicates the growth rate over time of data available per country for statistical indicators pertaining to UN Sustainable Development Goal 4.
+
+Hovering with your mouse creates a highlighted outline for that country. The gray dots for each country allow you to click to view the percent change of data available between 2004 and 2019. 
+
+Using the World Bank indicator for data available for Sustainable Development Goal 4, the growth rate was calculated by finding the different between what the World Bank recorded as available in 2004 vs. 2019. 

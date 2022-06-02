@@ -1,0 +1,6 @@
+
+This app allows one to explore the relationship(s) between The World Bank's Statistical Performance Indicators (SPI) and the Sustainable Development Solutions Network's scores for United Nations  Sustainable Development Goal 4: Quality Education. 
+
+The World Bank SPI framework provides a measurement of how a country's national statistical system is performing. The SPI Index is an overall score per country. The SPI Index is a combination of five (5) pillars. 
+
+All data for the moment is from 2019. 
