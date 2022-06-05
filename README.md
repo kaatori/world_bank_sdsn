@@ -7,7 +7,7 @@ Author: Cassandra Sperow
 
 ## Goal:
 
-To explore data available pertaining to a country's ability to achieve United Nations Sustainable Development Goal (UN SD) Goal 4: Quality Education. 
+To explore relationships between countries' World Bank SPI data and a country's ability to achieve United Nations Sustainable Development Goal (UN SD) Goal 4: Quality Education, as measured by an overall score per UN SD goal per year per country calculated by the SDSN. 
 
 ## Objective:
 
@@ -15,12 +15,17 @@ To enable users to interact with World Bank SPI and SDSN data as it relates to U
 
 ## Outcome:
 
-To help users understand how the statistical performance of countries around the world (as measured by the World Bank SPI framework) may play a part in each country's ability to achieve Sustainable Development Goal 4.
+To help users understand how the statistical performance of countries around the world (as measured by the World Bank SPI framework) may play a part in each country's ability to report on and show achievement of Sustainable Development Goal 4.
 
 ## Methods:
 
 - Interactive gradient map with pop-up labels of how much data pertaining to Goal 4 was available in 2019, according to the World Bank. 
+
 - One-variable data visualization of World Bank SPI data overall, World Bank SPI data pertaining to Goal 4, and SDSN scores for Goal 4. 
+
+- Bivariate data visualization (coming soon)
+
+- Interactive spreadsheet
 
 ## Background:
 
@@ -35,6 +40,10 @@ More about [Sustainable Development Solutions Network 2019 Report](https://www.s
 More about the United Nations [Sustainable Development Goals (SDGs)](https://sdgs.un.org/goals)
 
 All data in this app for the moment is from 2019. 
+
+## Required Packages:
+
+- Coming soon
 
 ##### Disclaimer: This app is for exploratory and informational purposes only, and should not be construed as legal, financial or other advice on any subject matter.
 
