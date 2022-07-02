@@ -2,6 +2,8 @@
 
 Exploratory data analysis and shiny app dashboard development for the World Bank Statistical Progress Indicator (SPI) data and Sustainable Development Solutions Network (SDSN) data relating to UN Sustainable Development Goal 4: Quality Education
 
+[Link to the World Bank SDSN EDA app via shinyapps.io](https://kaatori.shinyapps.io/world_bank_sdsn/?_ga=2.13582455.1380544754.1656769592-1534676863.1656769592)
+
 Author: Cassandra Sperow
 
 
