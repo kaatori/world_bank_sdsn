@@ -1,0 +1,75 @@
+---
+title: "wb_sdsn_regression"
+author: "Cassandra Sperow"
+date: '2022-07-06'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Regression Analysis of World Bank and SDSN Data Relating to Goal 4: Quality Education
+
+### Background
+
+In this repo, there is a shiny app that explores World Bank and Sustainable Development Solutions Network data that relates to a country's overall score for achieving Goal 4: Quality Education. 
+
+Using the World Bank Statistical Progress Indicator data, a country's achievement of Goal 4 should be able to be predicted, or be used to explain the variability between countries or other fields. If so, what SPI variables are the strongest predictors for Goal 4 achievement per country?
+
+### Initial Hypotheses
+
+The strongest predictors for a country's Goal 4 achievement would most likely seem to be Pillar 3 because this is where the World Bank SPI data accounts for social statistics (including education). The assumption is that having good Pillar 3 scores should also correlate to a country's ability to maintain quality education and its overall score of that per the SDSN aggregated score. 
+
+
+For the scope of this analysis, the SDSN's 2019 Goal 4 score will be used to represent the complexities of many different educational measures (literacy rates, numeracy skills, completion rates, etc.). 
+
+This analysis is not meant to be exhaustive, but meant to be a starting point for finding the best variables that explain the variability of each country's Goal 4 score in 2019. 
+
+### Objectives
+
+1. Explore the relationship(s) between Goal 4 score and the World Bank's SPI Pillars 1-5 and/or the overall SPI Index. 
+
+2. Explain the variability of Goal 4 scores in 2019. 
+
+3. Find the best predictors of Goal 4 score using the data in this project. 
+
+### Methodology
+
+1. Exploratory graphs
+
+2. Shiny app dashboard development for sharing information of the analysis
+
+3. Leaflet map of the change over time of the data available for Goal 4 from the World Bank's perspective. 
+
+4. Regression analysis (multiple linear)
+
+5. Model selection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

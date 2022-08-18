@@ -4,7 +4,7 @@ Exploratory data analysis and shiny app dashboard development for the World Bank
 
 [Link to the World Bank SDSN EDA app via shinyapps.io](https://kaatori.shinyapps.io/world_bank_sdsn/?_ga=2.13582455.1380544754.1656769592-1534676863.1656769592)
 
-Author: Cassandra Sperow
+Author: Cassandra Sperow 
 
 
 ## Goal:

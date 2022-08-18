@@ -1,0 +1,13 @@
+name: world_bank_sdsn
+title: world_bank_sdsn
+username:
+account: kaatori
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6435295
+bundleId: 5979790
+url: https://kaatori.shinyapps.io/world_bank_sdsn/
+when: 1654462906.74724
+lastSyncTime: 1654462906.74725
+asMultiple: FALSE
+asStatic: FALSE
