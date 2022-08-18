@@ -11,7 +11,7 @@ Author: Cassandra Sperow
 
 To explore relationships between countries' World Bank SPI data and a country's ability to achieve United Nations Sustainable Development Goal (UN SD) Goal 4: Quality Education, as measured by an overall score per UN SD goal per year per country calculated by the SDSN. 
 
-## Objective:
+## Objective:  
 
 To enable users to interact with World Bank SPI and SDSN data as it relates to UN SD Goal 4. 
 
